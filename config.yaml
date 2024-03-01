@@ -6,13 +6,13 @@ keywords:
         simulated annealing: 4
         quantum annealing: 4
         Statistical mechanical informatics: 4
-        compression sensing : 4
+        compressed sensing : 4
+        compressive sensing : 4
         replica method : 4
-        binary compressive sensing : 4
         ising: 2
         binary: 2
         combinatorial optimization: 2
         statistical mechanics: 1
         
 # 通知の閾値
-score_threshold: 1
+score_threshold: 3
